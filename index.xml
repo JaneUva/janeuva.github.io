@@ -17,15 +17,6 @@
     </item>
     
     <item>
-      <title>Plantcare</title>
-      <link>https://janeuva.github.io/portfolio/plantcare/</link>
-      <pubDate>Fri, 16 Oct 2020 19:07:16 +0600</pubDate>
-      
-      <guid>https://janeuva.github.io/portfolio/plantcare/</guid>
-      <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
-    </item>
-    
-    <item>
       <title>Markdown Formatting Demo</title>
       <link>https://janeuva.github.io/blog/markdown-formatting-demo/</link>
       <pubDate>Sun, 13 Sep 2020 12:49:27 +0600</pubDate>
@@ -163,6 +154,16 @@ Research &amp;amp; Idea Anyone who has ever moved to a new country knowns how it
       
       <guid>https://janeuva.github.io/portfolio/ux-case-study-for-agriculture-app/</guid>
       <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
+    </item>
+    
+    <item>
+      <title>Plantcare</title>
+      <link>https://janeuva.github.io/portfolio/plantcare/</link>
+      <pubDate>Tue, 06 Mar 2018 19:07:16 +0600</pubDate>
+      
+      <guid>https://janeuva.github.io/portfolio/plantcare/</guid>
+      <description>Onboarding The onboarding process is a user&amp;rsquo;s first impression of the app. Clear and easy onboarding increases the likelihood of successful engagement with the app. It is also reffered to as the simple walkthroughs that introduce users to how an app can be used and which features it has.
+   Reminders Reminder is a simple and convenient way to always be aware of the condition of your plants and take care of them in time.</description>
     </item>
     
   </channel>
